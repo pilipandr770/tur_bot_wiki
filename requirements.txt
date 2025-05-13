@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+python-dotenv
+openai
+requests
+beautifulsoup4
+pytz
+APScheduler
